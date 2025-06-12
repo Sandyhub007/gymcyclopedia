@@ -14,7 +14,7 @@ A comprehensive fitness tracking application that helps users manage their worko
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gymcyclopedia.git
+git clone https://github.com/Sandyhub007/gymcyclopedia.git
 cd gymcyclopedia
 ```
 
@@ -59,4 +59,4 @@ gymcyclopedia/
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
